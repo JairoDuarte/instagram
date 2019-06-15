@@ -27,11 +27,11 @@ export default class Feed extends Component {
     });
 
     socket.on("like", likePost => {
-      this.setState({
-        feed: this.state.feed.map(post =>
-          post._id === likePost._id ? likePost : post
-        )
-      });
+      const posts = this.state.feed.map(post =>
+        post._id === likePost._id ? likePost : post
+      );
+
+      this.setState({ feed: posts });
     });
   };
 
