@@ -1,4 +1,8 @@
-![FullStack Instagram Clone](https://i.ibb.co/YQD9gJY/Screen-Shot-2019-09-15-at-12-29-53.png)
+
+<div align="center">
+
+![FullStack Instagram Clone](https://i.ibb.co/LJ2341w/Screen-Shot-2019-09-15-at-13-07-58.png)
+</div>
 
 ## Introduction 💁🏽‍♂️
 
