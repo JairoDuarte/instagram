@@ -1,8 +1,8 @@
+<p>
 
-<div align="center">
+</p>
+<img src="https://i.ibb.co/mXM3Q4s/Screen-Shot-2019-09-15-at-13-07-58.png" alt="FullStack Instagram Clone" data-load="full" style="" width="100%" height="422">
 
-![FullStack Instagram Clone](https://i.ibb.co/LJ2341w/Screen-Shot-2019-09-15-at-13-07-58.png)
-</div>
 
 ## Introduction 💁🏽‍♂️
 
